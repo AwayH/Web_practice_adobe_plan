@@ -10,7 +10,7 @@
 
 | 版型 | 定位方式 |
 | - | - |
-|||
+| <img src="https://awayh.github.io/Web_practice_adobe_plan/images/wireframe1.png"> | <img src="https://awayh.github.io/Web_practice_adobe_plan/images/wireframe2.png"> |
 
 ## Open Graph
 ```html
