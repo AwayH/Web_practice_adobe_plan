@@ -32,7 +32,7 @@
 - HTML: Open Graph Protocol。
 - CSS: Meyerweb Reset CSS。
 - jQuery: 3.6.4。
-- [Font Awesome](https://fontawesome.com/icons): 6.3.0。
+- [Font Awesome](https://fontawesome.com/v5/search): 5.15.4。
 
 ## Analyze
 - SEO 與社群的使用。
