@@ -1,16 +1,18 @@
 # Adobe
-
-此專案為授課的專題案例，並非真正的實體網站。
+此專案為授課專題，並非真正的實體網站。
 
 ## Production
-
 [Demo](https://demo.f2e.idv.tw/adobe)
 
 ## Wireframe
-
 | 版型 | 定位方式 |
 | - | - |
 | <img src="https://awayh.github.io/Web_practice_adobe_plan/images/wireframe1.png"> | <img src="https://awayh.github.io/Web_practice_adobe_plan/images/wireframe2.png"> |
+
+## Interface
+| Desktop | Modal | Mobile |
+| - | - | - |
+| <img src="https://awayh.github.io/Web_practice_adobe_plan/images/interface1.png"> | <img src="https://awayh.github.io/Web_practice_adobe_plan/images/interface2.png"> | <img src="https://awayh.github.io/Web_practice_adobe_plan/images/interface3.png">
 
 ## Open Graph
 ```html
