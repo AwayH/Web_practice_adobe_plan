@@ -44,35 +44,33 @@
 - 決定互動效果的製作方式要採用 CSS 或 jQuery。
 - 標籤的使用(語意化、SEO)。
 
-## 各檔案文案
+## 文案: acrobat.html
 
-### acrobat.html
-
-#### 背景色
+### 背景色
 ```
 #333
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe Acrobat, Agent Landing Hub
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 Adobe Acrobat | 建立、編輯和審核 PDF
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 Adobe Acrobat 滿足您所有的 PDF 需求。從共用編輯到轉換文件，Acrobat 全面支援。
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -80,7 +78,7 @@ Adobe Acrobat 滿足您所有的 PDF 需求。從共用編輯到轉換文件，A
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 最佳的 PDF 工具現在更加緊密連結
 ```
@@ -99,33 +97,33 @@ Acrobat DC 與 Document Cloud 服務，是現今多裝置世界中最完整的 P
 | acrobat-4-sm.png | acrobat-4-lg.png | PDF 包含已標記和解析的 PostScript 原始碼，以在修改 PDF 頁面描述中的項與修改所產生的頁面造型之間直接保持一致。 |
 
 
-### premiere.html
+## 文案: premiere.html
 
-#### 背景色
+### 背景色
 ```
 #dd1f8e
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe Premiere Pro, Premiere Elements
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 專業影片編輯軟體 | Adobe Premiere Pro
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 使用領先業界的影片編輯器 Adobe Premiere Pro。編輯具有視覺震撼力的影片，為社群分享、電視和電影創作專業作品。
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -133,7 +131,7 @@ Adobe Premiere Pro, Premiere Elements
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 永遠更勝一籌的視訊編輯
 ```
@@ -150,33 +148,33 @@ Premiere Pro CC 是領先業界的視訊編輯軟體，適用於電影、電視�
 | premiere-2-sm.png | https://youtu.be/WTHI4VhoyDU | 請你挑戰 5 分鐘內學會，大師剪輯軟體 Adobe Premiere！ |
 
 
-### photoshop.html
+## 文案: photoshop.html
 
-#### 背景色
+### 背景色
 ```
 #00a7e2
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe Photoshop CC, Photoshop, 影像合成
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 官方版 Adobe Photoshop - 頂尖的 AI 相片和設計軟體
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 合併、修飾和重新混合影像有了 Photoshop，人人都能玩轉影像使用 Photoshop 中的生成式 AI，革新您創作高品質獨特內容的方式。免費試用！
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -184,7 +182,7 @@ Adobe Photoshop CC, Photoshop, 影像合成
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 顛覆想像的真實
 ```
@@ -202,33 +200,33 @@ Adobe Photoshop CC, Photoshop, 影像合成
 | photoshop-2-sm.png | https://www.ortwin-oberhauser.com/pdfs/google_seo-starter-guide.pdf | SEO 文件 |
 
 
-### after-effects.html
+## 文案: after-effects.html
 
-#### 背景色
+### 背景色
 ```
 #620294
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe After Effects, AE
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 動態圖形軟體 | Adobe After Effects
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 使用 Adobe After Effects 業界標準的動態圖形軟體，動態呈現您的創意。專為電影、電視、影片和網頁而設計。
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -236,7 +234,7 @@ Adobe After Effects, AE
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 讓大場面更加壯觀
 ```
@@ -248,33 +246,33 @@ Adobe After Effects, AE
 ```
 
 
-### illustrator.html
+## 文案: illustrator.html
 
-#### 背景色
+### 背景色
 ```
 #ee9a10
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe Illustrator, AI
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 Adobe Illustrator - 領先業界的向量圖形軟體
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 使用領先業界且由生成式 AI 提供支援的向量圖形軟體 Adobe Illustrator，將文字提示如魔術般轉換為完全可編輯的向量圖形。
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -282,7 +280,7 @@ Adobe Illustrator - 領先業界的向量圖形軟體
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 最先進的插圖創作技術
 ```
@@ -294,33 +292,33 @@ Adobe Illustrator - 領先業界的向量圖形軟體
 ```
 
 
-### dreamweaver.html
+## 文案: dreamweaver.html
 
-#### 背景色
+### 背景色
 ```
 #84c922
 ```
 
-#### head
+### head
 
-##### keywords
+#### keywords
 ```
 Adobe Dreamweaver, DW
 ```
 
-##### title, og:title
+#### title, og:title
 ```
 網站設計軟體 | Adobe Dreamweaver
 ```
 
-##### description, og:description
+#### description, og:description
 ```
 透過支援 HTML、CSS、JavaScript 等的 Adobe Dreamweaver 回應式網頁設計軟體，讓您幾乎在任何地方都能快速建立和發佈網頁。
 ```
 
-#### body
+### body
 
-##### navigation
+#### navigation
 - acrobat。
 - premiere。
 - photoshop。
@@ -328,7 +326,7 @@ Adobe Dreamweaver, DW
 - illustrator。
 - dreamweaver
 
-##### article
+#### article
 ```
 互動式網站真正快速無比
 ```
