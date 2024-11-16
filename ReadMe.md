@@ -73,7 +73,7 @@ Adobe 正在透過數位體驗改變世界。我們協助客戶建立、提供�
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -108,7 +108,7 @@ Adobe Acrobat 滿足您所有的 PDF 需求。從共用編輯到轉換文件，A
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -161,7 +161,7 @@ Adobe Premiere Pro, Premiere Elements
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -212,7 +212,7 @@ Adobe Photoshop CC, Photoshop, 影像合成
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -264,7 +264,7 @@ Adobe After Effects, AE
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -310,7 +310,7 @@ Adobe Illustrator - 領先業界的向量圖形軟體
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
@@ -356,7 +356,7 @@ Adobe Dreamweaver, DW
 - acrobat。
 - premiere。
 - photoshop。
-- after effect。
+- after-effects。
 - illustrator。
 - dreamweaver。
 
