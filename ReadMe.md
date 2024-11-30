@@ -114,7 +114,7 @@ Adobe Acrobat 滿足您所有的 PDF 需求。從共用編輯到轉換文件，A
 
 #### article
 ```
-Adobe Acrobat 最佳的 PDF 工具現在更加緊密連結
+adobe acrobat 最佳的 PDF 工具現在更加緊密連結
 ```
 
 ```
@@ -167,7 +167,7 @@ Adobe Premiere Pro | 專業影片編輯軟體
 
 #### article
 ```
-Adobe Premiere Pro 永遠更勝一籌的視訊編輯
+adobe premiere Pro 永遠更勝一籌的視訊編輯
 ```
 
 ```
@@ -218,7 +218,7 @@ Adobe Photoshop | 頂尖的 AI 相片和設計軟體
 
 #### article
 ```
-Adobe Photoshop 顛覆想像的真實
+adobe photoshop 顛覆想像的真實
 ```
 
 ```
@@ -270,7 +270,7 @@ Adobe After Effects | 動態圖形軟體
 
 #### article
 ```
-Adobe After Effects 讓大場面更加壯觀
+adobe after-effects 讓大場面更加壯觀
 ```
 
 ```
@@ -316,7 +316,7 @@ Adobe Illustrator | 領先業界的向量圖形軟體
 
 #### article
 ```
-Adobe Illustrator 最先進的插圖創作技術
+adobe illustrator 最先進的插圖創作技術
 ```
 
 ```
@@ -362,7 +362,7 @@ Adobe Dreamweaver | 網站設計軟體
 
 #### article
 ```
-Adobe Dreamweaver 互動式網站真正快速無比
+adobe dreamweaver 互動式網站真正快速無比
 ```
 
 ```
