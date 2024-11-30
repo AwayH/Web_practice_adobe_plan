@@ -41,14 +41,14 @@
 - [fancybox](https://cdnjs.com/libraries/fancybox/3.5.7)
 
 ## Analyze
-- SEO 與社群的使用。
+- 社群的使用。
 - 區分出共用與獨立的單元，並分配檔案的配置。
 - 決定資源的使用。
 - 色碼: 標準色、輔助色。
 - 決定互動效果的製作方式要採用 CSS 或 jQuery。
 - 標籤的使用(語意化、SEO)。
 
-## 文案: index.html
+## 網頁文案: index.html
 
 ### head
 
@@ -59,7 +59,7 @@ Adobe, Acrobat, PDF, Premiere, Photoshop, After Effects, Illustrator, Dreamweave
 
 #### title, og:title
 ```
-Adobe：創意、行銷和文件管理解決方案
+Adobe | 創意、行銷和文件管理解決方案
 ```
 
 #### description, og:description
@@ -78,7 +78,7 @@ Adobe 正在透過數位體驗改變世界。我們協助客戶建立、提供�
 - dreamweaver。
 
 
-## 文案: acrobat.html
+## 網頁文案: acrobat.html
 
 ### 背景色
 ```
@@ -114,7 +114,7 @@ Adobe Acrobat 滿足您所有的 PDF 需求。從共用編輯到轉換文件，A
 
 #### article
 ```
-最佳的 PDF 工具現在更加緊密連結
+Adobe Acrobat 最佳的 PDF 工具現在更加緊密連結
 ```
 
 ```
@@ -125,13 +125,13 @@ Acrobat DC 與 Document Cloud 服務，是現今多裝置世界中最完整的 P
 
 | src | link to | alt |
 |---|---|---|
-| acrobat-1-sm.png | acrobat-1-lg.png | 衍生自 PostScript 頁面描述語言的子集，用以生成和輸出圖形。 |
-| acrobat-2-sm.png | acrobat-2-lg.png | 字型嵌入/替換系統，可使字型隨檔案一起傳輸。 |
-| acrobat-3-sm.png | acrobat-3-lg.png | 結構化的儲存系統，用以綁定這些元素和任何相關內容到單個檔案，帶有適當的資料壓縮系統。 |
-| acrobat-4-sm.png | acrobat-4-lg.png | PDF 包含已標記和解析的 PostScript 原始碼，以在修改 PDF 頁面描述中的項與修改所產生的頁面造型之間直接保持一致。 |
+| ac-1-sm.png | acrobat-1-lg.png | 衍生自 PostScript 頁面描述語言的子集，用以生成和輸出圖形。 |
+| ac-2-sm.png | acrobat-2-lg.png | 字型嵌入/替換系統，可使字型隨檔案一起傳輸。 |
+| ac-3-sm.png | acrobat-3-lg.png | 結構化的儲存系統，用以綁定這些元素和任何相關內容到單個檔案，帶有適當的資料壓縮系統。 |
+| ac-4-sm.png | acrobat-4-lg.png | PDF 包含已標記和解析的 PostScript 原始碼，以在修改 PDF 頁面描述中的項與修改所產生的頁面造型之間直接保持一致。 |
 
 
-## 文案: premiere.html
+## 網頁文案: premiere.html
 
 ### 背景色
 ```
@@ -147,7 +147,7 @@ Adobe Premiere Pro, Premiere Elements
 
 #### title, og:title
 ```
-專業影片編輯軟體 | Adobe Premiere Pro
+Adobe Premiere Pro | 專業影片編輯軟體
 ```
 
 #### description, og:description
@@ -167,7 +167,7 @@ Adobe Premiere Pro, Premiere Elements
 
 #### article
 ```
-永遠更勝一籌的視訊編輯
+Adobe Premiere Pro 永遠更勝一籌的視訊編輯
 ```
 
 ```
@@ -178,11 +178,11 @@ Premiere Pro CC 是領先業界的視訊編輯軟體，適用於電影、電視�
 
 | src | link to | alt |
 |---|---|---|
-| premiere-1-sm.png | https://youtu.be/EM--R38YfJw | Premiere Pro 基礎教學 01：Youtuber 吃飯都靠它！免經驗無痛上手大師剪輯軟體！ |
-| premiere-2-sm.png | https://youtu.be/WTHI4VhoyDU | 請你挑戰 5 分鐘內學會，大師剪輯軟體 Adobe Premiere！ |
+| pr-1-sm.png | https://youtu.be/EM--R38YfJw | Premiere Pro 基礎教學 01：Youtuber 吃飯都靠它！免經驗無痛上手大師剪輯軟體！ |
+| pr-2-sm.png | https://youtu.be/WTHI4VhoyDU | 請你挑戰 5 分鐘內學會，大師剪輯軟體 Adobe Premiere！ |
 
 
-## 文案: photoshop.html
+## 網頁文案: photoshop.html
 
 ### 背景色
 ```
@@ -198,7 +198,7 @@ Adobe Photoshop CC, Photoshop, 影像合成
 
 #### title, og:title
 ```
-官方版 Adobe Photoshop - 頂尖的 AI 相片和設計軟體
+Adobe Photoshop | 頂尖的 AI 相片和設計軟體
 ```
 
 #### description, og:description
@@ -218,7 +218,7 @@ Adobe Photoshop CC, Photoshop, 影像合成
 
 #### article
 ```
-顛覆想像的真實
+Adobe Photoshop 顛覆想像的真實
 ```
 
 ```
@@ -229,12 +229,12 @@ Adobe Photoshop CC, Photoshop, 影像合成
 
 | src | link to | alt |
 |---|---|---|
-| photoshop-1-sm.png | https://blog.adobe.com/en/topics/photoshop | Adobe Blog |
-| photoshop-2-sm.png | - | 學習地點 - 站前學院 |
-| photoshop-2-sm.png | https://www.ortwin-oberhauser.com/pdfs/google_seo-starter-guide.pdf | SEO 文件 |
+| ps-1-sm.png | https://blog.adobe.com/en/topics/photoshop | Adobe Blog |
+| ps-2-sm.png | - | 學習地點 - 站前學院 |
+| ps-2-sm.png | https://www.ortwin-oberhauser.com/pdfs/google_seo-starter-guide.pdf | SEO 文件 |
 
 
-## 文案: after-effects.html
+## 網頁文案: after-effects.html
 
 ### 背景色
 ```
@@ -250,7 +250,7 @@ Adobe After Effects, AE
 
 #### title, og:title
 ```
-動態圖形軟體 | Adobe After Effects
+Adobe After Effects | 動態圖形軟體
 ```
 
 #### description, og:description
@@ -270,7 +270,7 @@ Adobe After Effects, AE
 
 #### article
 ```
-讓大場面更加壯觀
+Adobe After Effects 讓大場面更加壯觀
 ```
 
 ```
@@ -280,7 +280,7 @@ Adobe After Effects, AE
 ```
 
 
-## 文案: illustrator.html
+## 網頁文案: illustrator.html
 
 ### 背景色
 ```
@@ -296,7 +296,7 @@ Adobe Illustrator, AI
 
 #### title, og:title
 ```
-Adobe Illustrator - 領先業界的向量圖形軟體
+Adobe Illustrator | 領先業界的向量圖形軟體
 ```
 
 #### description, og:description
@@ -316,7 +316,7 @@ Adobe Illustrator - 領先業界的向量圖形軟體
 
 #### article
 ```
-最先進的插圖創作技術
+Adobe Illustrator 最先進的插圖創作技術
 ```
 
 ```
@@ -326,7 +326,7 @@ Adobe Illustrator - 領先業界的向量圖形軟體
 ```
 
 
-## 文案: dreamweaver.html
+## 網頁文案: dreamweaver.html
 
 ### 背景色
 ```
@@ -342,7 +342,7 @@ Adobe Dreamweaver, DW
 
 #### title, og:title
 ```
-網站設計軟體 | Adobe Dreamweaver
+Adobe Dreamweaver | 網站設計軟體
 ```
 
 #### description, og:description
@@ -362,7 +362,7 @@ Adobe Dreamweaver, DW
 
 #### article
 ```
-互動式網站真正快速無比
+Adobe Dreamweaver 互動式網站真正快速無比
 ```
 
 ```
