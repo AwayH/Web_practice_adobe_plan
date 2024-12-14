@@ -231,7 +231,7 @@ adobe photoshop 顛覆想像的真實
 |---|---|---|
 | ps-1-sm.png | https://blog.adobe.com/en/topics/photoshop | Adobe Blog |
 | ps-2-sm.png | - | 學習地點 - 站前學院 |
-| ps-2-sm.png | https://www.ortwin-oberhauser.com/pdfs/google_seo-starter-guide.pdf | SEO 文件 |
+| ps-3-sm.png | https://www.ortwin-oberhauser.com/pdfs/google_seo-starter-guide.pdf | SEO 文件 |
 
 
 ## 網頁文案: after-effects.html
